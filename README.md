@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ForbiddenScythe
-- 👀 I’m interested in ...
+- 👀 I’m interested in expanding my knowledge and collaborating to different projects and repositories
 - 🌱 I’m currently learning different coding languages
 - 💞️ I’m looking to collaborate on different projects as long as it is under my experience
 - 📫 How to reach me here at Github
