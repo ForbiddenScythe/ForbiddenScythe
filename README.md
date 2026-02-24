@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **enrique.mapili@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-4x3u.vercel.app/](https://portfolio-4x3u.vercel.app/)
+- 📄 Know about my experiences [ForbiddenScythe's Portfolio](https://portfolio-4x3u.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
