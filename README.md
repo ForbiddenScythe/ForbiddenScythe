@@ -4,13 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=forbiddenscythe&label=Profile%20views&color=0e75b6&style=flat" alt="forbiddenscythe" /> </p>
 
 - 🔭 I’m currently working on **creating a SOC Home Lab**
-
 - 🌱 I’m currently learning **Linux, Wazuh, Splunk, Microsoft Sentinel, and other SIEM technologies**
-
 - 🤝 I’m looking for help with **job opportunities**
-
 - 📫 How to reach me **enrique.mapili@gmail.com**
-
 - 📄 Know about my experiences [ForbiddenScythe's Portfolio](https://portfolio-4x3u.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
