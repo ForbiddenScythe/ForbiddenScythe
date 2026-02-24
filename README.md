@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ForbiddenScythe</h1>
 <h3 align="center">I’m passionate about cybersecurity and focused on ethical hacking, threat analysis, and network defense. I'm here to sharpen my skills, collaborate with fellow cybersecurity enthusiasts, and contribute to open-source security projects. My goal is to make the digital world safer, one vulnerability at a time. 🔐</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=forbiddenscythe&label=Profile%20views&color=0e75b6&style=flat" alt="forbiddenscythe" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=forbiddenscythe&label=Profile%20views&color=0e75b6&style=flat" alt="forbiddenscythe" /> </p>
 
 - 🔭 I’m currently working on **creating a SOC Home Lab**
 
