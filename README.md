@@ -16,7 +16,11 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on **creating a SOC Home Lab**<br>- 🌱 I’m currently learning **Linux, Wazuh, Splunk, Microsoft Sentinel, and other SIEM technologies**<br>- 🤝 I’m looking for help with **job opportunities**<br>- 📫 How to reach me **enrique.mapili@gmail.com**<br>- 📄 Know about my experiences [ForbiddenScythe's Portfolio](https://portfolio-4x3u.vercel.app/)</p>
+- 🔭 I’m currently working on creating a **SOC Home Lab**
+- 🌱 I’m currently learning **Linux, Wazuh, Splunk, Microsoft Sentinel, and other SIEM technologies**
+- 🤝 I’m looking for help with **job opportunities**
+- 📫 How to reach me **enrique.mapili@gmail.com**
+- 📄 Know about my experiences [ForbiddenScythe's Portfolio](https://portfolio-4x3u.vercel.app/)
 
 ###
 
