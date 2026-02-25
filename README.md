@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning **Linux, Wazuh, Splunk, Microsoft Sentinel, and other SIEM technologies**
 - 🤝 I’m looking for help with **job opportunities**
 - 📫 How to reach me **enrique.mapili@gmail.com**
-- 📄 Know about my experiences [ForbiddenScythe's Portfolio](https://portfolio-4x3u.vercel.app/)
+- 📄 Know about my experiences [ForbiddenScythe's Portfolio](https://enriqueliberato.vercel.app/)
 
 ###
 
