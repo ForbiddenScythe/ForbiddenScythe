@@ -84,6 +84,9 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://railway.com/apple-touch-icon.png" height="40" alt="linux logo"  />
+  
 </div>
 
 ###
