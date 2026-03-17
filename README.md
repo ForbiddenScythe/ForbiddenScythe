@@ -55,6 +55,6 @@
 
 ## 🔗 Find Me Professionally
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enrique_Liberato-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enriqueliberato/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enrique_L.-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enriquelib/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](enriqueliberato.vercel.app)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ForbiddenScythe)
