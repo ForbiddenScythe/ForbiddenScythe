@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">Cybersecurity grad. Blue team in progress. I build and break things to understand them. This is where I document the process.</h3>
+<h3 align="center">Blue team in progress. I build and break things to understand them. This is where I document the process.</h3>
 
 ###
 
